@@ -16,4 +16,8 @@ POST /graphql/school
 
 需要Authorization字段带上艾道中心的Token
 
-{ Authorization: "101uvn2uohr98vh8234l" }
+```json
+{
+  "Authorization" : "101uvn2uohr98vh8234l" 
+}
+```
